@@ -1,1 +1,2 @@
 # robotAccountCreator
+This uses java's robot class and click on specific points to create google and other accounts. This project is created so that, we can grow one step ahead from selenium and give more real experience to website to bypass protections. This class also enables to press keyboard inputs which is used for shortcut keys. This also goes in to our default router gateway and restarts it to change ip address and mozilla's about:config file is changed to change user agent. By this we were able to generate google's account dynamically.
